@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\WebApplFJ\WebApplFJ\bin\WebApplFJ.dll.config
+C:\Users\Administrator\Desktop\WebApplFJ\WebApplFJ\bin\WebApplFJ.dll
+C:\Users\Administrator\Desktop\WebApplFJ\WebApplFJ\bin\WebApplFJ.pdb
+C:\Users\Administrator\Desktop\WebApplFJ\WebApplFJ\obj\Release\WebApplFJ.dll
+C:\Users\Administrator\Desktop\WebApplFJ\WebApplFJ\obj\Release\WebApplFJ.pdb
+C:\Users\Administrator\Desktop\开发项目\分拣服务\WebApplFJ\bin\WebApplFJ.dll.config
+C:\Users\Administrator\Desktop\开发项目\分拣服务\WebApplFJ\bin\WebApplFJ.dll
+C:\Users\Administrator\Desktop\开发项目\分拣服务\WebApplFJ\bin\WebApplFJ.pdb
+C:\Users\Administrator\Desktop\开发项目\分拣服务\WebApplFJ\obj\Release\WebApplFJ.dll
+C:\Users\Administrator\Desktop\开发项目\分拣服务\WebApplFJ\obj\Release\WebApplFJ.pdb

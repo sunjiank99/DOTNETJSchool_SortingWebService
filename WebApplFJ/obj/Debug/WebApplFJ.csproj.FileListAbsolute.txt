@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\WebApplFJ\WebApplFJ\bin\WebApplFJ.dll.config
+C:\Users\Administrator\Desktop\WebApplFJ\WebApplFJ\bin\WebApplFJ.dll
+C:\Users\Administrator\Desktop\WebApplFJ\WebApplFJ\bin\WebApplFJ.pdb
+C:\Users\Administrator\Desktop\WebApplFJ\WebApplFJ\obj\Debug\WebApplFJ.dll
+C:\Users\Administrator\Desktop\WebApplFJ\WebApplFJ\obj\Debug\WebApplFJ.pdb
+C:\Users\Administrator\Desktop\WebApplFJ\WebApplFJ\obj\Debug\WebApplFJ.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\开发项目\分拣服务\WebApplFJ\bin\WebApplFJ.dll.config
+C:\Users\Administrator\Desktop\开发项目\分拣服务\WebApplFJ\bin\WebApplFJ.dll
+C:\Users\Administrator\Desktop\开发项目\分拣服务\WebApplFJ\bin\WebApplFJ.pdb
+C:\Users\Administrator\Desktop\开发项目\分拣服务\WebApplFJ\obj\Debug\WebApplFJ.dll
+C:\Users\Administrator\Desktop\开发项目\分拣服务\WebApplFJ\obj\Debug\WebApplFJ.pdb
+C:\Users\Administrator\Desktop\开发项目\分拣服务\WebApplFJ\obj\Debug\WebApplFJ.csprojResolveAssemblyReference.cache
